@@ -29,5 +29,19 @@ git add (file name) / .
 To commit :
 git commit -m "your message here"
 
-upload local repo content to remote repo:
+Upload local repo content to remote repo:
 git push origin main
+
+local repo to git repo:
+git init
+
+set origin:
+git remote add origin <link>
+
+git remote -v (verify remote)
+
+git branch (check on which branch we are working)
+git branch -M main(Remane it to main)
+git push origin main (-u to set upstream ie, using only git push)
+
+
