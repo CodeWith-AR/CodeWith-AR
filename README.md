@@ -28,3 +28,6 @@ git add (file name) / .
 
 To commit :
 git commit -m "your message here"
+
+upload local repo content to remote repo:
+git push origin main
