@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+To clone a Repo to our local pc/laptop:
+git clone (link)
+
+
+To check status:
+git Status
+
+To stage:
+git add (file name) / .
+
+To commit :
+git commit -m "your message here"
