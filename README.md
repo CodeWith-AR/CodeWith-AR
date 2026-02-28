@@ -32,6 +32,8 @@ git commit -m "your message here"
 Upload local repo content to remote repo:
 git push origin main
 
+###### Init ######
+
 local repo to git repo:
 git init
 
@@ -40,8 +42,19 @@ git remote add origin <link>
 
 git remote -v (verify remote)
 
-git branch (check on which branch we are working)
-git branch -M main(Remane it to main)
 git push origin main (-u to set upstream ie, using only git push)
 
+
+###### Work flow ######
+git repo -> clone -> changes -> add -> commit -> push 
+
+###### Branches ######
+
+git branch (check on which branch we are working)
+
+git checkout -b Newname (to create new branch)
+git checkout -d BranchName (to delete existing branch)
+git branch -M main(Remane it to main)
+
+git checkout main (navigate to main branch)
 
