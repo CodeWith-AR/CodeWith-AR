@@ -60,9 +60,13 @@ git checkout main (navigate to main branch)
 
 ###### PR ######
 
+<<<<<<< HEAD
 pull request to merge 2 branches
 
 
 ###### Pull request ######
 
 git pull origin main 
+=======
+pull request to merge 2 branches
+>>>>>>> fd6ac778f6530555e662f8867da930605c24e424
