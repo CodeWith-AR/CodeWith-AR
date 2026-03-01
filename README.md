@@ -58,3 +58,13 @@ git branch -M main(Remane it to main)
 
 git checkout main (navigate to main branch)
 
+###### Merge ######
+
+git diff (branch name) (to check difference between branches) 
+
+
+git merge (to merge 2 branches )
+
+###### PR ######
+
+pull request to merge 2 branches
