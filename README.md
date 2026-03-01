@@ -58,11 +58,3 @@ git branch -M main(Remane it to main)
 
 git checkout main (navigate to main branch)
 
-###### PR ######
-
-pull request to merge 2 branches
-
-
-###### Pull request ######
-
-git pull origin main
