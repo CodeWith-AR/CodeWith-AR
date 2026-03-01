@@ -58,7 +58,28 @@ git branch -M main(Remane it to main)
 
 git checkout main (navigate to main branch)
 
-
 ###### PR ######
 
 pull request to merge 2 branches
+
+###### merge #####
+ git merge branchname 
+
+
+###### Undo ######
+
+if only staged (add):
+
+git reset (file name)
+
+if also commted :
+
+git reset HEAD~1
+
+git reset (hash code through git log)
+
+
+###### FORK ######
+
+
+rough copy 
