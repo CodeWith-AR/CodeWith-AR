@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>AI-based Post-Stroke Speech Therapy application to help adults practice speech exercises and improve pronunciation using speech recognition models.<br><br>👯 I’m looking to collaborate on<br>Open-source AI projects, web applications, and tools that solve real-world problems in healthcare and education.<br><br>🤝 I’m looking for help with<br>Building and deploying AI models for real-world applications, integrating machine learning models with mobile apps.<br><br>🌱 I’m currently learning<br>Machine Learning, Flutter mobile development, AI model integration, and advanced web technologies.<br><br>💬 Ask me about<br>WordPress development, website optimization, Python basics, Mobile Application Development projects, and student software projects.<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into real working software projects and learning new technologies along the way.
 
 
